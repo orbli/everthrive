@@ -16,19 +16,34 @@ header {
     padding: 20px;
 }
 
+/* Style the navigation */
+header nav {
+    margin-bottom: 10px;
+}
+
+header ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+header li {
+    margin-right: 10px;
+}
+
 /* Style the main content */
 main {
     margin: 20px;
 }
 
-/* Style the heading */
-h1 {
-    font-size: 24px;
-    margin-bottom: 10px;
+/* Style the sections */
+main section {
+    margin-bottom: 20px;
 }
 
-/* Style the paragraph */
-p {
-    font-size: 16px;
-    margin-bottom: 20px;
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
 }
