@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-04T11:28:10+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ever Thrive Management Limited</title><subtitle>A company focused on investment and good at tech.</subtitle><entry><title type="html">Introduction to AWS lambda</title><link href="http://localhost:4000/cloud/2024/06/04/introduction-to-aws-lambda.html" rel="alternate" type="text/html" title="Introduction to AWS lambda" /><published>2024-06-04T10:58:56+08:00</published><updated>2024-06-04T10:58:56+08:00</updated><id>http://localhost:4000/cloud/2024/06/04/introduction-to-aws-lambda</id><content type="html" xml:base="http://localhost:4000/cloud/2024/06/04/introduction-to-aws-lambda.html"><![CDATA[<h1 id="aws-lambda-vs-ec2-a-cost-effective-approach-to-cloud-computing">AWS Lambda vs EC2: A Cost-Effective Approach to Cloud Computing</h1>
+
+<p>When it comes to cloud computing, Amazon Web Services (AWS) offers a multitude of solutions. Two of the most popular services are EC2 (Elastic Compute Cloud) and Lambda. While both have their merits, this post will focus on the cost-effectiveness and simplicity of using AWS Lambda.</p>
+
+<h2 id="what-is-aws-lambda">What is AWS Lambda?</h2>
+
+<p>AWS Lambda is a serverless compute service that lets you run your code without provisioning or managing servers. You simply upload your code and Lambda takes care of everything required to run and scale your code with high availability.</p>
+
+<h2 id="cost-effectiveness">Cost-Effectiveness</h2>
+
+<p>One of the main advantages of AWS Lambda over EC2 is its cost-effectiveness. With Lambda, you only pay for the compute time you consume - there is no charge when your code is not running. This is in contrast to EC2, where you pay for server capacity by the hour, regardless of whether you’re using it or not.</p>
+
+<h2 id="simplicity">Simplicity</h2>
+
+<p>Lambda also simplifies the operational aspects of running your code. There’s no need to worry about operating systems, patching, scaling, etc. You can focus purely on your code and your business logic.</p>
+
+<h2 id="use-cases">Use Cases</h2>
+
+<p>Lambda is ideal for workloads that respond to HTTP requests, process files uploaded to S3 buckets, or handle real-time file or stream processing. It’s also great for running code in response to changes in DynamoDB tables or custom events from your applications or services.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>While EC2 instances provide a great deal of flexibility and control, they also come with the overhead of managing server infrastructure. If you’re looking for a simple, cost-effective solution that lets you focus on your code, AWS Lambda is a fantastic option.</p>
+
+<p>Remember, the best tool depends on your specific needs. AWS offers a wide range of services, each with its own strengths, so it’s worth exploring all your options.</p>]]></content><author><name></name></author><category term="Cloud" /><summary type="html"><![CDATA[AWS Lambda vs EC2: A Cost-Effective Approach to Cloud Computing]]></summary></entry></feed>
