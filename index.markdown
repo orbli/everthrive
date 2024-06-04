@@ -12,7 +12,7 @@ Are you a tech enthusiast looking to work in a dynamic and forward-thinking envi
 
 ### About Us
 
-Ever Thrive Management Limited may be a family trust at its core, but we operate with the agility and innovation of a cutting-edge tech startup. While we do not engage in traditional business activities, our focus is on leveraging technology to manage and optimize our diverse portfolio of assets. We believe in the power of technology to drive efficiency, transparency, and growth.
+Ever Thrive Management Limited may be a investment portfolio at its core, but we operate with the agility and innovation of a cutting-edge tech startup. While we do not engage in traditional business activities, our focus is on leveraging technology to manage and optimize our diverse portfolio of assets. We believe in the power of technology to drive efficiency, transparency, and growth.
 
 ### Why Work With Us?
 
